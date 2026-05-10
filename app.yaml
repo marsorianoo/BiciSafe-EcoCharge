@@ -1,0 +1,8 @@
+name: BiciSafe&EcoCharge
+description: An Arduino project that combines video object detection, haptic feedback (vibration motor) and an animated battery indicator on an LED matrix.
+ports:
+- 7000
+bricks:
+- arduino:web_ui: {}
+- arduino:video_object_detection: {}
+icon: 😀
